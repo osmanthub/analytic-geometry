@@ -1,0 +1,42 @@
+/* Course identity: a flat seal-script Mac icon and a two-weight Chinese wordmark. */
+.brand{gap:13px;flex-shrink:0;white-space:nowrap;letter-spacing:0}
+.brand .brandmark{display:block;flex:0 0 auto;width:52px;height:52px;background:none;border-radius:0;font:inherit}
+.brand-wordmark{display:flex;flex-direction:column;gap:7px}
+.brand-title{display:inline-flex;align-items:baseline;font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif;line-height:1.15;color:#183F35}
+.brand-primary{font-size:24px;font-weight:650;letter-spacing:1.3px}
+.brand-divider{font-size:18px;font-weight:400;letter-spacing:0;margin:0 8px;color:#AA8150}
+.brand-subject{font-size:20px;font-weight:450;letter-spacing:1px}
+.brand .brand-en{display:block;margin:0;font-size:8px;letter-spacing:1.85px;font-weight:500;line-height:1;color:#839083}
+footer .brand{gap:10px}
+footer .brand .brandmark{width:35px;height:35px}
+footer .brand-primary{font-size:17px;letter-spacing:.5px}
+footer .brand-divider{font-size:14px;margin:0 5px}
+footer .brand-subject{font-size:15px;letter-spacing:.5px}
+@media(min-width:701px) and (max-width:1000px){
+ .site-header{gap:16px}
+ .site-header .primary-nav{gap:4px;font-size:13px}
+ .site-header .primary-nav a{padding:10px 7px}
+ .brand .brandmark{width:45px;height:45px}
+ .brand-primary{font-size:22px;letter-spacing:.8px}
+ .brand-subject{font-size:18px;letter-spacing:.6px}
+ .brand-divider{margin:0 6px}
+ .brand .brand-en{font-size:7px;letter-spacing:1.5px}
+}
+@media(max-width:700px){
+ .brand{gap:10px}
+ .brand-primary{font-size:21px;letter-spacing:1px}
+ .brand-divider{font-size:16px;margin:0 6px}
+ .brand-subject{font-size:18px;letter-spacing:.6px}
+ .brand .brandmark,.site-header .brandmark{width:41px;height:41px}
+ .brand .brand-en{display:none}
+ .site-header>.brand{gap:10px;margin-bottom:8px;line-height:1}
+ body>header:not(.site-header){height:auto;min-height:104px;flex-wrap:wrap;justify-content:center;gap:8px;padding:12px 4%}
+ body>header:not(.site-header) .brand{justify-content:center;width:100%}
+ body>header:not(.site-header)>.text-link{margin-left:auto;font-size:11px;white-space:nowrap}
+}
+@media(max-width:360px){
+ .brand-primary{font-size:20px;letter-spacing:.6px}
+ .brand-subject{font-size:17px;letter-spacing:.4px}
+ .brand-divider{margin:0 5px}
+ .brand .brandmark,.site-header .brandmark{width:38px;height:38px}
+}

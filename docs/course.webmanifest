@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "几何学基础—解析几何",
+  "short_name": "解析几何",
+  "description": "讲义、交互实验、纸笔作图与精选习题，可下载完整课程后离线学习。",
+  "lang": "zh-CN",
+  "start_url": "./index.html#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f2",
+  "theme_color": "#214f40",
+  "icons": [
+    {
+      "src": "course-seal-mac.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "course-app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

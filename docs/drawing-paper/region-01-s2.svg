@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img"><title>region-01 纸笔作图第2步</title><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L6,3.5 L0,7" fill="none" stroke="#87958d" stroke-width="1.1"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<path d="M284.598,265.244 L133.162,344.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="118.97" y="357.68" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >x</text>
+<path d="M284.598,265.244 L496.838,265.244" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="512.84" y="271.54" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >y</text>
+<path d="M284.598,265.244 L284.598,84.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="284.60" y="74.30" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >z</text>
+<text x="269.46" y="255.93" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >O</text>
+<text x="25" y="32" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="15" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">只画必要边界，不画面内网格</text>
+<text x="25" y="412" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">实线：可见边界或轮廓；深虚线：被遮挡；淡线：辅助。</text>
+<circle cx="158.401" cy="330.874" r="3" fill="#30463c" />
+<text x="147.68" y="318.31" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >A</text>
+<circle cx="242.532" cy="287.121" r="3" fill="#30463c" />
+<text x="227.20" y="277.99" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >B</text>
+<circle cx="242.532" cy="142.125" r="3" fill="#30463c" />
+<text x="258.31" y="133.45" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >C</text>
+<circle cx="456.685" cy="265.244" r="3" fill="#30463c" />
+<text x="467.96" y="253.00" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >D</text>
+<path d="M158.402,330.874 C163.075,328.443 177.097,321.151 186.445,316.290 C195.793,311.429 205.141,306.567 214.489,301.706 C223.837,296.844 237.858,289.552 242.533,287.121" fill="none" stroke="#273e35" stroke-width="2.4" stroke-dasharray="6 5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M242.533,287.121 C254.430,285.906 290.122,282.259 313.916,279.829 C337.711,277.398 361.506,274.968 385.301,272.537 C409.095,270.106 444.787,266.460 456.684,265.244" fill="none" stroke="#273e35" stroke-width="2.4" stroke-dasharray="6 5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M158.402,330.874 C174.973,327.228 224.687,316.290 257.829,308.997 C290.972,301.706 324.114,294.413 357.257,287.121 C390.399,279.829 440.113,268.891 456.684,265.244" fill="none" stroke="#273e35" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

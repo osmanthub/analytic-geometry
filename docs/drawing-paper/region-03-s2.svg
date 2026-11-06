@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img"><title>region-03 纸笔作图第2步</title><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L6,3.5 L0,7" fill="none" stroke="#87958d" stroke-width="1.1"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<path d="M337.705,242.699 L172.681,344.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="159.05" y="358.67" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >x</text>
+<path d="M337.705,242.699 L466.391,242.699" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="482.39" y="249.00" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >y</text>
+<path d="M337.705,242.699 L337.705,84.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="337.70" y="74.30" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >z</text>
+<text x="360.54" y="273.17" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >O</text>
+<text x="25" y="32" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="15" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">只画必要边界，不画面内网格</text>
+<text x="25" y="412" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">实线：可见边界或轮廓；深虚线：被遮挡；淡线：辅助。</text>
+<path d="M163.609,307.265 C170.851,303.990 193.541,293.571 207.059,287.614 C220.576,281.656 233.129,276.291 244.715,271.519 C256.301,266.746 266.922,262.567 276.577,258.980 C286.233,255.393 294.923,252.398 302.647,249.997 C310.371,247.595 317.130,245.786 322.924,244.571 C328.716,243.354 333.544,242.731 337.407,242.700 C341.268,242.670 344.165,243.231 346.096,244.386 C348.027,245.541 348.510,248.755 348.993,249.629" fill="none" stroke="#273e35" stroke-width="2.4" stroke-dasharray="6 5" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M348.993,249.629 C348.497,251.117 348.002,254.977 346.020,258.564 C344.039,262.151 341.067,266.345 337.104,271.149 C333.142,275.952 328.187,281.363 322.243,287.382 C316.299,293.402 304.906,303.951 301.439,307.265" fill="none" stroke="#273e35" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M163.609,307.265 C163.829,308.164 164.125,311.007 164.928,312.656 C165.731,314.306 166.907,315.818 168.430,317.164 C169.954,318.510 171.847,319.706 174.072,320.730 C176.298,321.754 178.884,322.620 181.783,323.310 C184.681,324.000 187.928,324.523 191.463,324.871 C194.998,325.218 198.865,325.393 202.992,325.393 C207.119,325.393 211.557,325.218 216.223,324.871 C220.890,324.523 225.843,324.000 230.990,323.310 C236.137,322.620 241.543,321.754 247.106,320.730 C252.668,319.706 258.458,318.510 264.367,317.164 C270.275,315.818 276.376,314.306 282.554,312.656 C288.732,311.007 298.291,308.164 301.439,307.265" fill="none" stroke="#273e35" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M337.705,242.699 L337.705,114.451" fill="none" stroke="#89968e" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="163.609" cy="307.265" r="3" fill="#30463c" />
+<text x="143.94" y="304.06" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >P−</text>
+<circle cx="301.439" cy="307.265" r="3" fill="#30463c" />
+<text x="313.55" y="332.28" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >P+</text>
+<circle cx="337.705" cy="114.451" r="3" fill="#30463c" />
+<text x="353.11" y="105.39" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >T</text>
+<circle cx="202.992" cy="325.394" r="3" fill="#30463c" />
+<text x="218.70" y="347.44" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >R</text>
+</svg>

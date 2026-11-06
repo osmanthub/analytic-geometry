@@ -1,0 +1,52 @@
+/* Touch targets and readable controls; retain the course's existing visual style. */
+@media (pointer:coarse), (max-width:900px){
+ button, select, input:not([type=checkbox]):not([type=radio]), summary,
+ .primary-nav a, .course-nav a, .drawing-source-links a, .note-tools button {
+  min-height:44px;
+ }
+ input:not([type=range]), select, textarea {font-size:16px!important}
+ input[type=range]{min-width:0;touch-action:pan-y}
+ .range-pair{min-width:0}
+ .number-input{min-width:0}
+ .camera-actions{flex-wrap:wrap;gap:8px}
+ .camera-actions button{padding:10px 12px}
+ .primary-nav a,.course-nav a{display:flex;align-items:center;justify-content:center}
+ .tabs button{min-width:44px;padding:12px 5px}
+ .drawing-stages button,.paper-step-list button{line-height:1.5}
+ .note-tools{flex-wrap:wrap;gap:8px}
+ summary{display:list-item;padding-top:10px;padding-bottom:10px}
+ .section-check{min-height:44px}
+ .section-check input{width:22px;height:22px}
+ #labCanvas{touch-action:none}
+ .canvas-hint{pointer-events:none}
+}
+@media (min-width:701px) and (max-width:900px){
+ .site-header{height:auto;min-height:76px;flex-wrap:wrap;justify-content:center;padding-top:10px;padding-bottom:8px;gap:8px}
+ .site-header .primary-nav{width:100%;justify-content:center}
+ .lab-shell{grid-template-columns:minmax(0,1fr)}
+ .lab-main,.lab-shell.section-active .lab-controls{position:static;max-height:none}
+ .lab-controls{max-height:none;overflow:visible}
+ .canvas-wrap{height:420px}
+ .view-control .camera-row{grid-template-columns:145px minmax(0,1fr)}
+ .exercise-workspace{grid-template-columns:minmax(0,1fr)}
+ .exercise-catalog{position:static;max-height:300px}
+}
+@media(max-width:700px){
+ .site-header{position:relative}
+ .primary-nav a{font-size:12px}
+ .canvas-wrap{height:330px}
+ .canvas-hint{max-width:calc(100% - 20px);font-size:11px}
+ .view-control .camera-row{grid-template-columns:minmax(0,1fr);gap:3px}
+ .camera-row label{justify-content:space-between}
+ .view-control{padding:12px 16px}
+ .camera-actions button{flex:1}
+ .section-heading{flex-wrap:wrap}
+ .drawing-stages{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+ .reader-toolbar{gap:8px}
+ .reader-toolbar button{padding:9px 12px}
+ .reader-toolbar input{width:68px}
+ .exercise-toolbar{grid-template-columns:minmax(0,1fr)}
+ .course-search input{min-width:0}
+ .paper-progress img{max-width:100%;height:auto}
+ .drawing-source-links a{display:flex;align-items:center}
+}

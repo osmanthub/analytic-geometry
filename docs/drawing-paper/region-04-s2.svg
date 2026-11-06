@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img"><title>region-04 纸笔作图第2步</title><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L6,3.5 L0,7" fill="none" stroke="#87958d" stroke-width="1.1"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<path d="M206.838,297.730 L125.426,344.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="111.52" y="358.21" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >x</text>
+<path d="M206.838,297.730 L504.574,297.730" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="520.57" y="304.03" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >y</text>
+<path d="M206.838,297.730 L206.838,84.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="206.84" y="74.30" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >z</text>
+<text x="188.09" y="292.87" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >O</text>
+<text x="25" y="32" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="15" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">只画必要边界，不画面内网格</text>
+<text x="25" y="412" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">实线：可见边界或轮廓；深虚线：被遮挡；淡线：辅助。</text>
+<circle cx="439.444" cy="297.730" r="3" fill="#30463c" />
+<text x="424.11" y="288.61" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >A</text>
+<circle cx="398.738" cy="320.865" r="3" fill="#30463c" />
+<text x="414.07" y="343.29" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >B</text>
+<circle cx="398.738" cy="166.619" r="3" fill="#30463c" />
+<text x="420.74" y="173.58" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >C</text>
+<circle cx="439.444" cy="119.622" r="3" fill="#30463c" />
+<text x="455.22" y="110.94" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >D</text>
+<path d="M439.444,297.730 C437.182,299.016 430.399,302.872 425.876,305.442 C421.352,308.013 416.830,310.583 412.307,313.154 C407.784,315.724 400.999,319.580 398.738,320.865" fill="none" stroke="#273e35" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M398.738,320.865 C398.738,312.296 398.738,286.588 398.738,269.450 C398.738,252.311 398.738,235.172 398.738,218.034 C398.738,200.896 398.738,175.188 398.738,166.618" fill="none" stroke="#273e35" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M439.444,119.622 C439.444,129.517 439.444,159.201 439.444,178.992 C439.444,198.781 439.444,218.571 439.444,238.361 C439.444,258.151 439.444,287.835 439.444,297.730" fill="none" stroke="#273e35" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M439.444,119.622 C438.852,119.986 437.076,121.024 435.893,121.809 C434.711,122.595 433.528,123.436 432.349,124.332 C431.169,125.228 429.991,126.180 428.817,127.185 C427.644,128.190 426.473,129.250 425.307,130.362 C424.142,131.474 422.979,132.641 421.823,133.858 C420.668,135.075 419.516,136.346 418.373,137.666 C417.230,138.986 416.092,140.358 414.963,141.778 C413.834,143.199 412.712,144.670 411.600,146.188 C410.487,147.706 409.383,149.274 408.289,150.886 C407.196,152.498 406.111,154.159 405.038,155.864 C403.965,157.567 402.902,159.318 401.853,161.111 C400.803,162.904 399.257,165.701 398.738,166.618" fill="none" stroke="#273e35" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

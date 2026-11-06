@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="420" viewBox="140 0 360 420" role="img"><title>base-02 纸笔作图第1步</title><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L6,3.5 L0,7" fill="none" stroke="#87958d" stroke-width="1.1"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<path d="M302.976,173.000 L405.833,173.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)"/>
+<path d="M302.976,173.000 L262.976,194.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)"/>
+<path d="M302.976,173.000 L302.976,45.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)"/>
+<path d="M302.976,173.000 L302.976,323.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text x="423.657914798898" y="179.64999999999998" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="start" fill="#30463c" >x</text>
+<text x="229.97321548576545" y="201.18123874170277" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="start" fill="#30463c" >z</text>
+<text x="296.80077194175516" y="27.65" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="start" fill="#30463c" >y</text>
+<path d="M305.804,175.828 L331.776,201.8" fill="none" stroke="#89968e" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="339.7757719417552" y="220.6" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic" text-anchor="start" fill="#30463c" >O</text>
+<text x="292.0957719417552" y="352.95000000000005" font-family="Georgia, Times New Roman, serif" font-size="17" font-style="italic" text-anchor="start" fill="#30463c" >−y</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img"><title>base-01 纸笔作图第1步</title><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L6,3.5 L0,7" fill="none" stroke="#87958d" stroke-width="1.1"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<path d="M275.237,217.904 L540.000,217.904" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)"/>
+<path d="M275.237,217.904 L105.122,323.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)"/>
+<path d="M275.237,217.904 L275.237,45.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)"/>
+<text x="557.825" y="224.5538872276805" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="start" fill="#30463c" >y</text>
+<text x="78.52888346093745" y="342.26399406199783" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="start" fill="#30463c" >x</text>
+<text x="269.0619634892502" y="27.65" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="start" fill="#30463c" >z</text>
+<path d="M278.065,215.075 L280.037,213.104" fill="none" stroke="#89968e" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="288.03696348925024" y="205.50388722768048" font-family="Georgia, Times New Roman, serif" font-size="16" font-style="italic" text-anchor="start" fill="#30463c" >O</text>
+</svg>

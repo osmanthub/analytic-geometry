@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420" role="img"><title>region-03 纸笔作图第1步</title><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L6,3.5 L0,7" fill="none" stroke="#87958d" stroke-width="1.1"/></marker></defs><rect width="100%" height="100%" fill="white"/>
+<path d="M337.705,242.699 L172.681,344.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="159.05" y="358.67" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >x</text>
+<path d="M337.705,242.699 L466.391,242.699" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="482.39" y="249.00" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >y</text>
+<path d="M337.705,242.699 L337.705,84.000" fill="none" stroke="#87958d" stroke-width="1.2" marker-end="url(#arrow)" />
+<text x="337.70" y="74.30" font-family="Georgia, Times New Roman, serif" font-size="18" font-style="italic" text-anchor="middle" fill="#30463c" >z</text>
+<text x="360.54" y="273.17" font-family="Georgia, Times New Roman, serif" font-size="19" font-style="italic" text-anchor="middle" fill="#30463c" >O</text>
+<text x="25" y="32" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="15" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">只画必要边界，不画面内网格</text>
+<text x="25" y="412" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="12" font-style="normal" text-anchor="start" fill="#30463c" paint-order="stroke" stroke="white" stroke-width="3" stroke-linejoin="round">实线：可见边界或轮廓；深虚线：被遮挡；淡线：辅助。</text>
+</svg>
